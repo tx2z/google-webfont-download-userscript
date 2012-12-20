@@ -3,7 +3,7 @@ google-webfont-download-userscript
 
 Add a download link to fonts in google webfonts page.
 
-This is a usercript and need Grasemonkey or any alternative to be installed: http://userscripts.org/about/installing
+This is a usercript and need Greasemonkey (firefox), tampermonkey (chrome) or any alternative to be installed: http://userscripts.org/about/installing
 
 -----
 
