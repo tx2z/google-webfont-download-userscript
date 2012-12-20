@@ -2,7 +2,7 @@
 // @name       Google webfonts download link
 // @namespace  http://jesus.perezpaz.es
 // @version    0.1
-// @description  Add download links to for fonts in google webfonts page
+// @description  Add a download link to fonts in google webfonts page
 // @match      http://www.google.com/webfonts
 // @match      http://www.google.com/webfonts/*
 // @copyright  2012+, tx2z
